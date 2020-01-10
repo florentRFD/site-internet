@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <h1>Présentation florent lejeune</h1>
+      <h1></h1>
       <nav>
         <ul>
           <li><a href="index.php?page=accueil" title="Page d'accueil">Accueil</a></li>

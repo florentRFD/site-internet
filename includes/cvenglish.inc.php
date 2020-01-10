@@ -1,10 +1,11 @@
 <div>
 <figure>
   <div id="wrap">
+    <div id=cvenglish>
 
-    <img src="./assets/img/cv.jpg" alt"photo cv">
+    <img src="./assets/css/photo.jpg" alt="profil" height="250" width="200">
 
-  </figure>
+
   <h1> Florent Lejeune </h1>
   <h2> research internship in communication </h2>
 
@@ -78,5 +79,6 @@
   <li>
     book: enéagramme
   </li>
+  </figure>
 </ul>
 </div>

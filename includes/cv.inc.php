@@ -1,15 +1,18 @@
 <div>
+
   <figure>
     <div id="wrap">
+        <div id="cv">
 
-      <img src="profil.jpg" alt="profil" height="42" width="42">
+      <img src="./assets/css/photo.jpg" alt="profil" height="250" width="200">
 
 
-    </figure>
+
     <h1> Florent Lejeune </h1>
     <h2> recherche stage en communication </h2>
 
   </div>
+</div>
   <ul>
     <p>
       <li><h3>expérience
@@ -86,3 +89,4 @@
     </li>
   </ul>
 </div>
+</figure>

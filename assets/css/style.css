@@ -49,18 +49,26 @@ header ul li a {
 }
 
 /*css cv*/
-#cv {
+#wrap {
+  color: white;
+  text-align: center;
+
+/*css cvenglish*/
+}
+#wrap {
   color: black;
   text-align: center;
-    image: url("photo.jpg");
-}
-#cvenglish {
-  color: black;
 
 }
-
-#mentionslegale {
+/*css mentions légales */
+mentionslegale {
   color: black;
+  text-align: center;
+}
+/*css footer*/
+footer {
+  text-align: center;
+  color: white;
 }
 
 /*CSS frmContact*/
