@@ -13,14 +13,12 @@
     <label for="mail">e-mail :</label>
     <input type="email" name="mail" id="mail"value="<?=$mail ?>" />
   </div>
-  </fieldset>
-  <fieldset>
   <div>
     <label for="msg">Message :</label>
     <textarea name="msg" id="msg"><?=$msg ?></textarea>
   </div>
   <div>
-    <input type="submit" value="Clique-moi grand fou !" />
+    <input type="submit" value="envoyer" />
   </div>
   </fieldset>
   <input type="hidden" name="frmContact" />

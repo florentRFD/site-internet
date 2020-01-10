@@ -1,14 +1,72 @@
-@import url('reset.css');
+@import url("reset.css");
+@media  {
 
+}
+/*CSS Global*/
 body {
-  background-color: #FFF;
-  color:#000;
-  font-size: 14px;
-  font-family: Verdana, Arial, sans-serif;
+  background-image: url("trou.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
+body {
+  background-color: black;
+  color:#000;
+  font-size: 20px;
+  font-family: Verdana, Arial, sans-serif;
+}
+/*CSS Header*/
+header ul li {
+  display: inline-block;
+  border: #833471 4px solid ;
+  border-radius: 2em;
+  font-size: 25px;
+  background-color: #ff9f43;
+  width:18%;
+  text-align: center;
+}
+
+header ul li a {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+/*css accueil*/
+#accueil {
+  color: black;
+  text-align: center;
+}
+
+#accueil p {
+  margin-top: 10px
+}
+
+#accueil h1 {
+  font-size: 30px
+}
+
+#accueil div {
+}
+
+/*css cv*/
+#cv {
+  color: black;
+  text-align: center;
+    image: url("photo.jpg");
+}
+#cvenglish {
+  color: black;
+
+}
+
+#mentionslegale {
+  color: black;
+}
+
+/*CSS frmContact*/
 form {
-  background-color: darksalmon;
+  color:white;
+  margin: 0 auto;
   width: 600px;
   padding: 20px;
 }

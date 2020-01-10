@@ -8,7 +8,7 @@
     require $page;
   }
   else {
-    require $path . 'accueil.inc.php';
+    require $path . 'accueil.php';
   }
   ?>
 </main>
