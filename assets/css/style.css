@@ -49,11 +49,11 @@ header ul li a {
 #accueil div {
 }
 .yop {
-  -webkit-animation: mymove 5s infinite;
-  animation: mymove 5s infinite;
+  -webkit-animation: mymove 8s infinite;
+  animation: mymove 8s infinite;
 }
 @keyframes mymove {
-  50% {text-shadow: 20px 30px 40px green;}
+  50% {text-shadow: 20px 30px 40px white;}
 }
 
 /*css cv*/
