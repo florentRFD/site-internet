@@ -1,7 +1,7 @@
 <div>
 
   <figure>
-    <div id="wrap">
+    <div id="wrap2">
         <div id="cv">
 
       <img src="./assets/css/photo.jpg" alt="profil" height="250" width="200">

@@ -4,9 +4,12 @@
     <meta charset="utf-8">
     <title>Présentation florent lejeune</title>
     <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/boutton.css" />
+<script src="https://kit.fontawesome.com/dc40ca2bbe.js" crossorigin="anonymous"></script>
   </head>
   <body>
     <header>
+
       <h1></h1>
       <nav>
         <ul>

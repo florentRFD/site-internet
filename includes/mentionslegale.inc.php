@@ -1,3 +1,4 @@
+<div id="mentionslegale">
 <h1>Mentions légales</h1>
 
 <div>

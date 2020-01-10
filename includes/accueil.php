@@ -1,6 +1,6 @@
 <div id="accueil">
 
-
+<div class="yop">
 <h1>Accueil</h1>
 
 <h1> bienvenue sur le site internet de florent lejeune </h1>
@@ -38,7 +38,8 @@ EN CHIFFRES
 ?️ Les trous noirs ne vivent pas pour toujours. Ils s'évaporent lentement au fil du temps, diffusant leur énergie dans l'univers.
 
 ?️ En 2015, deux trous noirs se sont écrasés à plus d'un milliard d'années-lumière de la Terre. (Une année-lumière est la distance parcourue par la lumière en un an.) Ils n'ont pas été détruits, ils ont juste fusionné pour créer un plus grand trou noir.
-</div>
-</nav>
+
+  <a href="https://www.ricard.com/"> rafraichissement.com</a>
 </h4>
+</div>
 </div>
